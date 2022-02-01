@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/ogunw/Documents/scripts/cdevtutorial/tutorial1/Alarm_system/headers/utility.cpp
+iostream
+-
+ctime
+-
+algorithm
+-
+cstring
+-
+string
+-
+vector
+-
+cmath
+-
+
